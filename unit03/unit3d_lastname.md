@@ -36,7 +36,7 @@ Answer every question. No SQL today.
 **3.** What is the downside of a document database, according to the video?
 
 **Answer:** Data relationships are more difficult to handle
-
+[text](../../coDrone/unit3b_lastname.md) [text](../../coDrone/mermaid.md)
 
 **4.** A relational database needs a join table to connect many things to many things. In a graph database, what does that job instead?
 
