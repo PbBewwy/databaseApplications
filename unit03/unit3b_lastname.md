@@ -13,8 +13,8 @@ For each table, decide: is the primary key **natural** (a real-world value that 
 | Table | Primary key | Natural or surrogate? | Composite? |
 |---|---|:-:|:-:|
 | `teams` in `nba_5seasons.db` | `team_id` | surrogate | no |
-| `player_season_stats` in `nba_5seasons.db` | player_id | surrogate | no |
-| A US state table | `state_abbrev` (OH, MI, PA…) | natural | yes |
+| `player_season_stats` in `nba_5seasons.db` | player_id | surrogate | yes |
+| A US state table | `state_abbrev` (OH, MI, PA…) | natural | no |
 | The school's student records | `student_id` | surrogate | no |
 
 **a.** The school could use a student's full name as the primary key instead of `student_id`. Give one reason that's a bad idea.
