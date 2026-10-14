@@ -122,7 +122,6 @@ Give your tables to AI and have it write the Mermaid code. Proof it and test it 
 
 ```mermaid
 erDiagram
-    erDiagram
     ARTISTS {
         string artist PK
         string artist_country
